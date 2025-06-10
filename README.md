@@ -1,6 +1,6 @@
-Website Link - 
+Website Link - https://macdonald91.github.io/Fashion-Blog/
 
-<h1>Fashion-Blog</h1>h1>
+<h1>Fashion-Blog</h1>
 
 Everyday with Isa: An Insider's Guide to NYFW
 Welcome to the Everyday with Isa project! This repository showcases a detailed, single-page HTML blog post, "An Insider's Guide to NYFW," authored by Isabelle Rodriguez. This project serves as a practical demonstration of fundamental web development concepts, offering valuable insights into structuring and presenting rich content using clean HTML.
